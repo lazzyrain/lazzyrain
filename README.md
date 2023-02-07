@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **[Anythink]**
 
-- 📬 How to reach me **candrafpv15@gmail.com**
+- 📬 How to reach me **[candrafpv15@gmail.com]**
 
 - 😁 Fun fact **[Nothing]**
 
