@@ -6,8 +6,9 @@
 <h3 align="center">A passionate frontend developer, dreamer of becoming a software developer</h3>
 <h4 align="center">[🤛keep trying🤜]</h4>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=lazyrain15&label=Profile%20views&color=0e75b6&style=flat" alt="lazyrain15" /> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=lazyrain15&label=Profile%20views&color=0e75b6&style=flat" alt="lazyrain15" />
+  <hr/>
 </p>
 
 <p align="left"> 
