@@ -12,7 +12,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/lazyrain15/">
     <img src="https://github-profile-trophy.vercel.app/?username=lazyrain15&title=Commits,Repositories&margin-w=15&no-bg=true" alt="lazyrain15" />
   </a> 
 </p>
