@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" height="220" />
+  <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" height="220" autoplay />
 </p>
 
 <h1 align="center">Hi 👋, I'm Andhika Candra Wijaya</h1>
