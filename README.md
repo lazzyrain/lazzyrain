@@ -11,8 +11,6 @@
   <hr/>
 </p>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=lazyrain15&column=3&margin-w=15&margin-h=15" alt="lazyrain15" />
-
 <ul>
   <li>👨‍💻 I’m currently working on <b>[Web Order]</b></li>
   <li>📖 I’m currently learning <b>[Pyhton, Django]</b></li>
@@ -58,5 +56,3 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a>
 </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazyrain15&show_icons=true&locale=en&layout=compact" alt="lazyrain15" />
