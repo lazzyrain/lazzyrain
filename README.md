@@ -2,26 +2,16 @@
   <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" height="220" autoplay />
 </p>
 
-<h1 align="center" style="font-family: 'Arial'">Hi 👋, I'm Andhika Candra Wijaya</h1>
+<h3 align="center" style="font-family: 'Arial'">Hi 👋, I'm Andhika Candra Wijaya</h3>
 <h3 align="center" style="font-family: 'Arial'">A passionate frontend developer, dreamer of becoming a software developer</h3>
 <h4 align="center" style="font-family: 'Arial'">[🤛keep trying🤜]</h4>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=lazyrain15&label=Profile%20views&color=0e75b6&style=flat" alt="lazyrain15" />
-  <hr/>
 </p>
 
-<ul>
-  <li>👨‍💻 I’m currently working on <b>[Web Order]</b></li>
-  <li>📖 I’m currently learning <b>[Pyhton, Django]</b></li>
-  <li>💬 Ask me about <b>[Anythink]</b></li>
-  <li>📬 How to reach me <b>[candrafpv15@gmail.com]</b></li>
-</ul>
-
-<hr/>
-
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
