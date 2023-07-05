@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" height="220" alt="gif" autoplay />
 </p>
 
-<h2 align="left" style="font-family: 'Arial'">Hi there, I'm Andhika Candra Wijaya 👋</h2>
+<h2 align="left" style="font-family: 'Arial'">Hi, I'm Andhika Candra Wijaya 👋</h2>
 <h4 align="left" style="font-family: 'Arial'">A passionate frontend developer, dreamer of becoming a software developer</h3>
 
 <p align="left"> 
