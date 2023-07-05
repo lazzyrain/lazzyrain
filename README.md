@@ -79,3 +79,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lazzyrain&show_icons=true&locale=en&layout=compact" alt="lazzyrain" />
 </p>
 
+![wave](https://github.com/lazzyrain/lazzyrain/assets/90812119/536bb7f7-d727-4f1a-a12c-f810c2e3d67a)
