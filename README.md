@@ -23,8 +23,15 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100007467616044&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andhika candra" height="30" width="40" /></a>
-<a href="https://instagram.com/lazzyrain_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazzyrain_" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100007467616044&mibextid=ZbWKwL" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andhika candra" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/lazzyrain_" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lazzyrain_" height="30" width="40" />
+  </a>
+  <a href="https://discordapp.com/users/.lazzyrain" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".lazzyrain" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and tools :</h3>
