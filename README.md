@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="left" style="font-family: 'Arial'">Hi, I'm Andhika Candra Wijaya 👋</h2>
-<h4 align="left" style="font-family: 'Arial'">A passionate frontend developer, dreamer of becoming a software developer</h3>
+<h4 align="left" style="font-family: 'Arial'">A passionate frontend web developer, dreamer of becoming a software developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=lazyrain15&label=Profile%20views&color=0e75b6&style=flat" alt="lazyrain15" />
