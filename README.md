@@ -1,6 +1,8 @@
 <p align="center">
+  ![sultan-alrefaei-programmer](https://github.com/lazzyrain/lazzyrain/assets/90812119/16e43300-418f-4c0d-ab2d-5cfecda24a5a)
   <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" height="220" alt="gif" autoplay />
 </p>
+
 
 <h1 align="left" style="font-family: 'Arial'">Hi, I'm Andhika Candra Wijaya 👋</h2>
 <h3 align="left" style="font-family: 'Arial'">A passionate frontend web developer, dreamer of becoming a software developer</h3>
