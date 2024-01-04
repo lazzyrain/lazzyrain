@@ -7,7 +7,7 @@
 <h3 align="left" style="font-family: 'Arial'">A passionate frontend web developer, dreamer of becoming a software developer</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=lazyrain15&label=Profile%20views&color=0e75b6&style=flat" alt="lazyrain15" />
+  <img src="https://komarev.com/ghpvc/?username=lazzyrain&label=Profile%20views&color=0e75b6&style=flat" alt="lazzyrain" />
 </p>
 
 <p align="left">
