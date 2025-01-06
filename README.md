@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" height="220" alt="gif" autoplay />
 </p>
