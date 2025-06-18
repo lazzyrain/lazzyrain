@@ -15,13 +15,11 @@
     <img src="https://komarev.com/ghpvc/?username=lazzyrain&label=Profile%20views&color=000000&style=plastic" alt="lazzyrain" />
 </div>
 
-<hr style="height: 0.1rem;">
-
-<strong>Indonesia 🇮🇩</strong>
-<span>I'm currently working on:</span>
-<strong>👉 Web Development</strong>
-<span>Ask me about anythink:</span>
-<strong>👉 andhikacndr15@gmail.com</strong>
+<p><strong>Indonesia 🇮🇩</strong></p>
+I'm currently working on:
+<p><strong>👉 Web Development</strong></p>
+Ask me about anythink:
+<p><strong>👉 andhikacndr15@gmail.com</strong></p>
 
 Here's some stuff I mess around with
 
