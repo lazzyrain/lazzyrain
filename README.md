@@ -52,3 +52,5 @@ Here's some stuff I mess around with
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="">
 </div>
+
+<img src="./octocat.png" alt="octocat" height="200" />
